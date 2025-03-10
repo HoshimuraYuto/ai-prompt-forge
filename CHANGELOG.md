@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/HoshimuraYuto/ai-prompt-forge/compare/v1.1.0...v1.2.0) (2025-03-10)
+
+
+### Features
+
+* add chatgpt customize ([c77c281](https://github.com/HoshimuraYuto/ai-prompt-forge/commit/c77c281ab015e5d5035556d5624c5005ec4b5f60))
+
 # [1.1.0](https://github.com/HoshimuraYuto/ai-prompt-forge/compare/v1.0.0...v1.1.0) (2025-03-10)
 
 
