@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/HoshimuraYuto/ai-prompt-forge/compare/v1.2.0...v1.3.0) (2025-03-11)
+
+
+### Features
+
+* add smart inquiry assistant GPT and update README ([c31cc4d](https://github.com/HoshimuraYuto/ai-prompt-forge/commit/c31cc4dc5b26a11d7ba4a9bb07e02e0a6dae1338))
+
 # [1.2.0](https://github.com/HoshimuraYuto/ai-prompt-forge/compare/v1.1.0...v1.2.0) (2025-03-10)
 
 
